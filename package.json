@@ -35,5 +35,18 @@
     "@polymer/iron-checked-element-behavior": "^3.0.0-pre.26",
     "@polymer/paper-behaviors": "^3.0.0-pre.27",
     "@polymer/paper-styles": "^3.0.0-pre.26"
+  },
+  "overrides": {
+    "@babel/traverse": "7.23.2",
+    "brace-expansion": "1.1.16",
+    "braces": "3.0.3",
+    "decode-uri-component": "0.2.1",
+    "growl": "1.10.0",
+    "lodash": "4.18.0",
+    "minimatch": "3.1.3",
+    "minimist": "0.2.4",
+    "mixin-deep": "1.3.2",
+    "prismjs": "1.27.0",
+    "set-value": "2.0.1"
   }
 }
